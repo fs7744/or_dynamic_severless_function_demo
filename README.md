@@ -27,3 +27,8 @@ OpenResty 处理流程参考下图：
 
 ## OpenResty 如何实现动态插件？
 
+lua 代码如何加载
+
+demo
+
+severless function
